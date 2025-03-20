@@ -36,4 +36,4 @@ spec:
             cpu: "100m"
       volumes:
         - name: log-volume
-        emptyDir: {}
+          emptyDir: {}
